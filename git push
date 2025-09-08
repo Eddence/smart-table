@@ -1,0 +1,43 @@
+[33mcommit 4934e53094d084983f4c058be930f1f87d0f8c78[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Eddence <Eddence05@gmail.com>
+Date:   Mon Sep 8 06:15:32 2025 +0200
+
+    pr7_step_3&4
+
+[33mcommit 10b7de5fb7133dbca872a62f06cc60f5ae1d7521[m
+Author: Eddence <Eddence05@gmail.com>
+Date:   Mon Sep 8 06:12:41 2025 +0200
+
+    Revert "pr7_step_2"
+    
+    This reverts commit 07d94c664f8588c6ee0a00eb3353b1193634bd9b.
+
+[33mcommit 07d94c664f8588c6ee0a00eb3353b1193634bd9b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Eddence <Eddence05@gmail.com>
+Date:   Mon Sep 8 05:43:07 2025 +0200
+
+    pr7_step_2
+
+[33mcommit 5f0467f5a91b6126d6475bba5538631b6efd96f3[m
+Author: Eddence <Eddence05@gmail.com>
+Date:   Mon Sep 8 02:42:04 2025 +0200
+
+    7pr_step_1
+
+[33mcommit dbec98451bec6b390a89d26faa5176daf9b2aaa0[m
+Author: Eddence <Eddence05@gmail.com>
+Date:   Mon Sep 1 03:16:08 2025 +0200
+
+    second
+
+[33mcommit eb7a1c015dfe47df04be4c0eb3a2850ffa4eff56[m
+Author: Eddence <Eddence05@gmail.com>
+Date:   Mon Sep 1 02:18:18 2025 +0200
+
+    first
+
+[33mcommit 61a549492d095de8f4a0921c32c6800ed3a1ecae[m
+Author: Sergei <eddence94@gmail.com>
+Date:   Mon Sep 1 00:50:32 2025 +0200
+
+    Initial commit
