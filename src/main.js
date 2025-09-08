@@ -45,6 +45,7 @@ async function render(action) {
     sampleTable.render(items);
 }
 
+
 const sampleTable = initTable({
     tableTemplate: 'table',
     rowTemplate: 'row',
